@@ -1,1 +1,2 @@
-Hi
+SQL Murder Mystery Project
+In this project, I solved the SQL Murder Mystery, a fun challenge where you solve a fictional crime using SQL queries. This exercise helped me improve my SQL skills, especially in querying, filtering, and joining tables. By carefully investigating and using strategic queries, I was able to look through different datasets, find important clues, and identify the culprit. This project was a great way to practice SQL in a practical and enjoyable way.
